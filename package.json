@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "web-push": "^3.6.7"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.15",
+    "@types/web-push": "^3.6.4"
+  }
+}
