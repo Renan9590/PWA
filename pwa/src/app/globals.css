@@ -24,3 +24,14 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+button{
+  color: rgb(65, 140, 238);
+  text-decoration: underline;
+}
+
+input{
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+}
